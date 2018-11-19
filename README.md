@@ -19,3 +19,14 @@ This project touched on the overarching attitudes and beliefs important to effec
 (3) Visualization is a fluid process that typically requires multiple iterations of improvements
 
 I also had the opportunity to experience the end-to-end process of creating effective data visualizations and highlighting important information from data that may otherwise be hidden or hard to uncover.
+
+Links:
+
+Initial Version:
+
+[Initial Version Link](https://public.tableau.com/profile/javier7547#!/vizhome/Story2_45/PerformanceinBaseball?publish=yes)
+
+Final Version:
+
+[Final Version Link](https://public.tableau.com/profile/javier7547#!/vizhome/PerformanceinBaseballAnalysis-FinalVisualization/PerformanceinBaseball)
+
